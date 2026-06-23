@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**moiseshernandeztech/moiseshernandeztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="background:#0f1117; color:#39ff14; padding:16px 18px; border-radius:10px; border:1px solid #2a3a2a; font-family:'Cascadia Code','Fira Code','Consolas',monospace; line-height:1.55;">
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ whoami</span><br>
+<span style="color:#A8FF7A;">Moises Hernandez</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ role</span><br>
+<span style="color:#A8FF7A;">Site Reliability Engineer (SRE) • Platform Engineer</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ focus</span><br>
+<span style="color:#A8FF7A;">Cloud infrastructure ⚙️  | automation 🤖  | observability 📈  | reliability 🛡️</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ about</span><br>
+<span style="color:#A8FF7A;">I’m passionate about building scalable, resilient, and efficient systems.</span><br>
+<span style="color:#A8FF7A;">I enjoy turning complex problems into reliable, automated solutions.</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ currently</span><br>
+<span style="color:#A8FF7A;">Improving my skills in cloud technologies, infrastructure, and modern DevOps practices.</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ looking_for</span><br>
+<span style="color:#A8FF7A;">Collaborating on projects focused on performance, uptime, and intelligent automation.</span><br><br>
+<span style="color:#7CFF6B;">┌─[moises@dev]─[~]</span><br>
+<span style="color:#7CFF6B;">└──╼ $ tech_stack</span><br>
+<span style="color:#A8FF7A;">Node.js • JavaScript • MongoDB • Docker • Kubernetes</span><br>
+<span style="color:#A8FF7A;">MySQL • PostgreSQL • Redis • Java • Bash • Linux</span><br>
+<span style="color:#A8FF7A;">SQL • Oracle • HTML • RabbitMQ • Python • Kafka</span>
+</div>
